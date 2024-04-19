@@ -1,4 +1,4 @@
-# Traça
+# Traças
 
 ## Descrição
 Este projeto visa abordar a falta de metadados nos arquivos do Arquivo Nacional (AN), dificultando a utilização de materiais históricos valiosos. A solução proposta é uma plataforma web que permite a visualização de arquivos, fornecimento de metadados e revisão por pares da descrição dos documentos. A plataforma também oferece benefícios para os participantes, como certificados de participação e acesso a atividades culturais.
