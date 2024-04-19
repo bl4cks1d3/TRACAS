@@ -23,5 +23,10 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 ## Contato
 Para mais informações, entre em contato com [jaquequeroz@gmail.com](mailto:jaquequeroz@gmail.com).
 
+## Equipe
+- Jaqueline de Sousa Queroz - Negócio
+- Wesley Cardoso da Silva - Desenvolvimento e Negócio
+- Handerson Carlos Ribeiro Pereira Lemes - UI/UX
+
 ## HackatAN
 Este projeto está sendo desevolvido para o HackathAN - Desafio do Arquivo Nacional
